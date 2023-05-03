@@ -1,0 +1,34 @@
+class :
+
+name class be sorat PascalCase anjam mishavad
+ 
+class daraye vizhegi (property) ha va raftar(method) mibashad
+
+be tavabeyi ke dar class tarif beshan method gofte mishavad
+
+hame method haye class parameter self ro daran
+
+class mitavanad be tedad namahdodi method dashte bashad
+
+badaz tarif class bayad az on shey besazim
+
+method__init__ be sorat khodkar ejra mishe
+va vazife dare vaghti object sakhte mishe yek seri amaliat ro anjam bede
+
+method__init__ tabe pishfarz hast ke dar python tarif shode
+chon har class daraye yek seri vizhegi hast, age name digari bezarim vizhegi
+ha be object pass dade nemishan
+
+
+
+
+
+inheritance :
+
+yek class mitone az yek ya chand class ers bari kone
+yani method ha va propery haye onaro alave bar method ha va property haye khodesh dashte bashe
+
+be classi ke azash ersbari mishe migan parent(valed)
+va be oni ke ersbari karde az digari migan child(farzand)
+
+nokte : dar sorati ke class b seda zade beshe method init class a ham ejra mishe
